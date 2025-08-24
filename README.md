@@ -4,6 +4,7 @@
 An aspiring developer
 
 💡passionate about building projects that combine creativity
+
 ⚡ Love working on automation, data analysis, and creating interactive websites.  
 ✨ Always learning, building, and sharing my journey through code!  
 💬 Ask me about coding, web development, and automation  
