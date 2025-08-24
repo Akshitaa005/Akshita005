@@ -1,5 +1,7 @@
 👋HI! i am Akshita
-aspiring developer
+
+
+An aspiring developer
 
 💡passionate about building projects that combine creativity
 ⚡ Love working on automation, data analysis, and creating interactive websites.  
